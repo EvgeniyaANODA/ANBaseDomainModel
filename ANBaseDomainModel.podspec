@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.license  = { :type => 'MIT' }
   spec.homepage = 'https://github.com/anodamobi/ANBaseDomainModel'
   spec.authors  = { 'Oksana Kovalchuk' => 'oksana@anoda.mobi' }
-  spec.summary  = 'Signle class for better logging NSObject's properties'
+  spec.summary  = 'Signle class for better logging NSObject\'s properties'
   spec.source   = { :git => 'https://github.com/anodamobi/ANBaseDomainModel.git', :tag => spec.version.to_s }
 
   spec.source_files = "ANBaseDomainModel/*.{h,m}"
